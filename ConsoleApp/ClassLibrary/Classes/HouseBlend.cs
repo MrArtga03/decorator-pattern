@@ -18,5 +18,10 @@ namespace DecoratorLibrary.Classes
         {
             return Price;
         }
+
+        public override string GetDescription()
+        {
+            return Description;
+        }
     }
 }

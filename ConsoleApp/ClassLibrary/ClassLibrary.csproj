@@ -41,6 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Additions\CondimentDecorator.cs" />
+    <Compile Include="Classes\Additions\Whip.cs" />
+    <Compile Include="Classes\Additions\Soy.cs" />
+    <Compile Include="Classes\Additions\Mocha.cs" />
+    <Compile Include="Classes\Additions\Milk.cs" />
     <Compile Include="Classes\Espresso.cs" />
     <Compile Include="Classes\Decaf.cs" />
     <Compile Include="Classes\DarkRoast.cs" />
